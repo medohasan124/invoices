@@ -1,0 +1,14 @@
+======================================
+========= start notification =========
+======================================
+
+
+
+1: create notifacation table 
+*  php artisan notifications:table
+*  php artisan migrate
+2: create notication folder by 
+*  php artisan make:notification invoice
+/App/Notifiaction
+
+3: to send data  
